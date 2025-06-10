@@ -1,4 +1,4 @@
-# <h1 align="center">Site Front-End de uma Pizzaria completo, responsivo para mobile e tablet</h1>
+<!-- # <h1 align="center">Site Front-End de uma Pizzaria completo, responsivo para mobile e tablet</h1>
 <br>
 <h3 align="start">link do site</h3>
 
@@ -9,4 +9,18 @@
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+</div>-->
+
+<h1>Projeto: Site de Uma Pizzaria</h1>
+
+<h2>📌 Sobre o Projeto</h2>
+
+<p>Este é um projeto Front-End dedicado a Pizzarias sendo possível customizar de acordo com a necessidade, site Front End completo para qualquer Pizzaria, Este site foi criado para fins de estudo e prática.</p>
+
+<h2>🚀 Tecnologias Utilizadas</h2>
+<ul>
+  <li><b>HTML5</b></li>
+  <li><b>CSS3</b> - Responsivo para mobile e tablet</li>
+  <li><b>JavaScript - </b>lightgallery-js</li>
+  <li><b>Swiper</b></li>
+</ul>
