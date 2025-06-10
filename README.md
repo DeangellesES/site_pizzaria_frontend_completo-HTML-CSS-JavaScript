@@ -24,3 +24,6 @@
   <li><b>JavaScript - </b>lightgallery-js</li>
   <li><b>Swiper</b></li>
 </ul>
+
+
+<h3><a target="_blank" href="https://deangelleses.github.io/site_pizzaria_frontend_completo-HTML-CSS-JavaScript/">Acessar Projeto</a></h3>
