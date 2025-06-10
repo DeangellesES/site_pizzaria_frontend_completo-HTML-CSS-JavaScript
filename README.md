@@ -25,6 +25,11 @@
   <li><b>Swiper</b></li>
 </ul>
 
+<h2>⚙️ Funcionalidades</h2>
+<ul>
+  <li>Mostrar Serviços e Produtos</li>
+</ul>
+
 
 <h3><a href="https://deangelleses.github.io/site_pizzaria_frontend_completo-HTML-CSS-JavaScript/" target="_blank">Acessar Projeto</a></h3>
 
