@@ -25,7 +25,7 @@
 <ul>
   <li><b>HTML5</b></li>
   <li><b>CSS3</b> - Responsivo para mobile e tablet</li>
-  <li><b>JavaScript</b> - Swiper - Lightgallery-js</li>
+  <li><b>JavaScript</b> - Lightgallery-js</li>
   <li><b>Swiper</b></li>
 </ul>
 
