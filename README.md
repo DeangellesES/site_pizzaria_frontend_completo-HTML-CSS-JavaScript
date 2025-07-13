@@ -32,6 +32,7 @@
 <h2>⚙️ Funcionalidades</h2>
 <ul>
   <li>Mostrar Serviços e Produtos</li>
+  <li>Mostrar Contato e Localização</li>
 </ul>
 
 
