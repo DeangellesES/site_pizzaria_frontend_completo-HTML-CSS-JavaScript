@@ -38,7 +38,7 @@
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
   <li>Paradigma de programação Estruturado</li>
-  <li>Manipulação do DOM com JavaScript e com React</li>
+  <li>Manipulação do DOM com JavaScript</li>
   <li>Icones do Fontawesome com cdn no head, icones bem posicionados</li>
   <li>Flex-box CSS</li>
   <li>Várias animações com CSS e JavaScript</li>
@@ -54,6 +54,11 @@
   <li>manipulação de background</li>
   <li>CSS bem documentado</li>
   <li>:hover usado varias vezes</li>
+  <li>efeito de clicar e aparecer div com conteudo</li>
+  <li>navegação entre páginas</li>
+  <li>Blibioteca lightgallery-js para criação de galeria ao clicar em um item e expandir com mais detalhes</li>
+  <li>Swiper com pagination e sem</li>
+  <li>aparecer modais ao clicar em itens</li>
 </ul>
 
 
