@@ -33,6 +33,7 @@
 <ul>
   <li>Mostrar Serviços e Produtos</li>
   <li>Mostrar Contato e Localização</li>
+  <li>Mostrar Redes Sociais</li>
 </ul>
 
 <h2>⚙️ Detalhes Técnicos</h2>
@@ -59,6 +60,8 @@
   <li>Blibioteca lightgallery-js para criação de galeria ao clicar em um item e expandir com mais detalhes</li>
   <li>Swiper com pagination e sem</li>
   <li>aparecer modais ao clicar em itens</li>
+  <li>carrinho de compra e login ao clicar</li>
+  <li>expansão de imagens com :hover</li>
 </ul>
 
 
