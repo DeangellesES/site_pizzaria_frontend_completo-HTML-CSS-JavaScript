@@ -25,16 +25,35 @@
 <ul>
   <li><b>HTML5</b></li>
   <li><b>CSS3</b> - Responsivo para mobile e tablet</li>
-  <li><b>JavaScript</b> - Lightgallery-js</li>
+  <li><b>JavaScript</b> - Lightgallery-js - vanilla</li>
   <li><b>Swiper</b></li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Mostrar Serviços e Produtos</li>
   <li>Mostrar Contato e Localização</li>
 </ul>
 
-
+<h2>⚙️ Detalhes Técnicos</h2>
+<ul>
+  <li>Paradigma de programação Estruturado</li>
+  <li>Manipulação do DOM com JavaScript e com React</li>
+  <li>Icones do Fontawesome com cdn no head, icones bem posicionados</li>
+  <li>Flex-box CSS</li>
+  <li>Várias animações com CSS e JavaScript</li>
+  <li>Swiper para criação de carrossel</li>
+  <li>eventos de click no querySelector</li>
+  <li>classList.toggle, add(), remove()</li>
+  <li>window.onscroll</li>
+  <li>onclick() direto na variavel</li>
+  <li>foreach()</li>
+  <li>fonte do google fonts com cdn importada no arquivo css</li>
+  <li>Flex box</li>
+  <li>animações criadas com css</li>
+  <li>manipulação de background</li>
+  <li>CSS bem documentado</li>
+  <li>:hover usado varias vezes</li>
+</ul>
 
 
